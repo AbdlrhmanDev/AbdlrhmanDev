@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @AbdlrhmanDev
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Fullstack
+
 
 
 
 
 # 👨🏻‍💻 About Me:
-⚡I'm a student of computer science<br>🤝 I’m looking for help with<br>🌱 I’m currently learning | Front-End<br>
+- 👋 Hi, I’m @AbdlrhmanDev
+- <br>
+-⚡I'm a student of computer science
+<br>🤝
+I’m looking for help with
+<be>
+🌱 I’m currently learning | Front-End
+<br>
+- 👀 I’m interested in Software Engineering
+<br>
+  
 
 
 ## 🌐 Socials:
