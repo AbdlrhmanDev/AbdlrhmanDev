@@ -1,5 +1,6 @@
 # 💫 About Me:
 ✈ I’m working on full-stack web projects.<br>🤝 I’d love to collaborate on web apps and AI ideas.<br>🆘 I’m looking for help with advanced AI and machine learning.<br>🌱 I’m currently learning AI/ML and sharpening my full-stack skills.<br>💬 Ask me about full-stack development and computer science.<br>⚡ Fun fact: I’m a computer science student who loves building things that actually work.
+
 portfolio : https://abdlrhmandevs.dev/
 
 
